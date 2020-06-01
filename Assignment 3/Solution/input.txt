@@ -1,0 +1,210 @@
+10 5 20 10 10 25
+Add_Teacher PhD IT 13 Associate_Professor 478 false 51478 Alaa_Ahmad_Zahrani Saudi 1973 10 12 M 534528754 Rehab
+Add_Teacher PhD IS 14 Assistant_Professor 241 false 53654 Zaheer_Abbas Indian 1978 4 7 M 505487196 Fayha
+Add_Teacher Masters CS 18.5 Lecturer 354 false 44254 Shokat_Azeez Pakistani 1982 7 21 M 567894874 Kandara
+Add_Teacher PhD IS 14 Assistant_Professor 414 false 49647 Morris_Zukie German 1977 3 24 M 525477415 Balad
+Add_Teacher PhD CS 15.5 Assistant_Professor 356 false 53587 Yasser_Ali Jordanian 1976 9 28 M 547871054 Rehab
+Add_Teacher PhD IS 11 Assistant_Professor 387 false 50025 Ahmed_Qahtani Saudi 1975 2 18 M 500587414 Jamia
+Add_Teacher Masters CS 16 Lecturer 466 true 48741 Zahoor_Rashid Indian 1981 12 15 M 538700365 Rehab
+Add_Teacher DSc IT 9 Professor 473 false 49872 Aysha_Ayman Egyptian 1968 8 17 M 537874123 Jamia
+Add_Teacher PhD CS 9 Professor 315 false 44540 Manzar_Zahrani Saudi 1965 6 30 M 547803485 Kandara
+Add_Teacher Masters IS 11 Lecturer 381 false 45149 Ghada_Ali_Zahrani Saudi 1980 4 8 F 508793215 Fayha
+Add_Invigilator 2 Remote_Invigilation Secretary 124 false 55475 Ali_Alghamdi Saudi 1990 5 8 M 547871054 Kandara 
+Add_Invigilator 3 Supervision Office_Assistant 147 false 58741 Salman_Turki Saudi 1985 1 14 M 505856612 Balad 
+Add_Invigilator 5 Remote_Invigilation Admin_officer 198 true 35822 Ghazi_Alqahtani Saudi 1977 8 22 M 523003344 Rehab 
+Add_Invigilator 3 Exam_Attendance Secretary 147 false 35548 Hamza_Jalal Saudi 1988 10 25 M 547674174 Jamia 
+Add_Invigilator 5 Supervision Developer 123 false 22519 Ameer_Bandar Saudi 1975 4 28 M 554803421 Jamia  
+Add_ExamVenue  1001 Second 31
+Add_ExamVenue  1002 First 14
+Add_ExamVenue  1003 Second 14
+Add_ExamVenue  1004 Ground 12
+Add_ExamVenue  1005 First 12
+Add_ExamVenue  1006 Second 41
+Add_ExamVenue  1007 Fourth 74
+Add_ExamVenue  1008 First 31
+Add_ExamVenue  1009 Third 14
+Add_ExamVenue  1010 Second 31
+Add_ExamVenue  1011 Ground 31
+Add_ExamVenue  1012 Second 31
+Add_ExamVenue  1013 Second 31
+Add_ExamVenue  1014 Fifth 31
+Add_ExamVenue  1015 Third 31
+Add_ExamVenue  1016 First 32
+Add_ExamVenue  1017 Second 33
+Add_ExamVenue  1018 Third 34
+Add_ExamVenue  1019 Third 35
+Add_ExamVenue  1020 Ground 36
+Add_CourseLab 501 Graphics_Lab 1.5
+Add_CourseLab 502 Programming_Lab 2
+Add_CourseLab 503 Graphics_Lab 2.5
+Add_CourseLab 504 Graphics_Lab 1.5
+Add_CourseLab 505 Software_Lab 1.5
+Add_CourseLab 506 System_Analysis_Lab 2  
+Add_CourseLab 507 Graphics_Lab 1.5
+Add_CourseLab 508 Graphics_Lab 2.5  
+Add_CourseLab 509 Programming_Lab 1.5
+Add_CourseLab 510 Graphics_Lab 2
+Add_Course 201 Computer_Fundamentals 4.0  
+Add_Course 202 Programming1 3.0  
+Add_Course 203 Programming2 3.0  
+Add_Course 204 Data_Structure 3.0  
+Add_Course 301 Artificial_Intelligence 3.0  
+Add_Course 351 Software_Engineering1 3.0  
+Add_Course 391 Computer_Graphics 3.0 
+Add_Course 403 Internet_Programming 2.0  
+Add_Course 498 Senior_Project 1.0  
+Add_Course 353 Software_Engineering2 2.0 
+Add_Student Computer_Science 4 3.54 2013 5 5 17001 Moukhled_AlOutaibi Saudi 1998 4 8 M 12412222 Jeddah 6 4
+Add_Student Information_Technology 5 2.5 2015 4 25 17002 Abdullah_Abdulaziz_AlJoud Saudi 1995 9 18 M 28322530 Makkah 3 3
+Add_Student Computer_Science 6 3.54 2013 5 5 17003 Hussein_AlYami Saudi 1998 4 13 M 38323444 Jeddah 6 6
+Add_Student Information_Systems 4 3.67 2014 4 15 17004 Maya_Jamaan_AlHamdah Saudi 1998 3 3 F 35661048 Riyadh 2 2
+Add_Student Computer_Science 3 3.12 2013 5 5 17005 Alyan_Sultan_Al_Qahtani Syrian 1997 3 4 M 35826090 Jeddah 5 4
+Add_Student Computer_Science 4 1.87 2015 5 5 17006 Tariq_Ahmed_AlAmri Saudi 1998 7 9 M 33613365 Dammam 4 3
+Add_Student Information_Systems 6 3.45 2015 2 3 17007 Nada_AlSabani Saudi 1998 4 21 F 38551464 Madina 4 3
+Add_Student Information_Technology 5 3.67 2013 5 5 17008 Mohammed_AlSalhi Saudi 1997 5 27 M 38642550 Jeddah 3 3
+Add_Student Information_Systems 6 3.87 2013 11 21 17009 Hamed_Hamadan_AlBishi Saudi 1999 7 12 M 36670220 Makkah 3 2
+Add_Student Computer_Science 4 3.04 2014 5 5 17010 Hamed_Hamadan_AlBishi Egyption 1998 8 5 M 36640454 Riyadh 5 4
+Add_Student Computer_Science 4 2.53 2015 10 22 17011 Hadi_Soua'an_AlSomaily Saudi 1998 6 3 M 38501755 Jeddah 6 5
+Add_Student Computer_Science 6 3.11 2013 5 5 17012 Hamnah_AlSalhi Saudi 1998 4 8 F 14359451 Jeddah 6 4
+Add_Student Information_Technology 7 2.97 2013 5 5 17013 Hamdan_Odha_AlBishi Saudi 1997 12 8 M 26532951 Makkah 7 5
+Add_Student Computer_Science 5 2.87 2014 5 5 17014 Ismail_AlSabani Syrian 1996 1 13 M 38275222 Madina 4 3
+Add_Student Computer_Science 4 3.73 2013 3 17 17015 Mohamed_Ali_AlBishi Saudi 1995 2 16 M 35661261 Riyadh 5 4
+Add_Student Information_Systems 5 2.68 2013 5 5 17016 Mohammed_AlSalhi Saudi 1996 4 3 M 35866933 Jeddah 5 4
+Add_Student Information_Systems 6 3.5 2014 5 5 17017 Youssef_AlMasrahi Saudi 1998 9 6 M 33610488 Riyadh 6 6
+Add_Student Information_Technology 6 3.33 2013 5 5 17018 Fatima_AlYassin Syrian 1998 8 4 F 38557596 Jeddah 4 4
+Add_Student Information_Technology 5 2.7 2014 6 18 17019 Mohamed_Obaid_AlSahli Saudi 1998 7 11 M 38642930 Riyadh 2 2
+Add_Student Computer_Science 5 2.22 2013 5 5 17020 Abdullah_Abkar_AlMouled Egyption 1998 11 19 M 36671196 Dammam 3 2
+Add_Student Computer_Science 4 2.59 2014 5 5 17021 Hiba_AlMasrahi Saudi 1998 4 28 F 36643157 Madina 6 5
+Add_Student Computer_Science 6 3 2013 7 19 17022 Ibrahim_AlHamaidi Saudi 1995 12 14 M 38500336 Riyadh 5 4
+Add_Student Information_Systems 3 3.42 2014 5 5 17023 Hadi_Soua'an_AlSomaily Saudi 1998 2 10 M 38451256 Jeddah 6 5
+Add_Student Computer_Science 5 2.9 2014 5 5 17024 Hamed_Hamadan_AlBishi Jordanian 1996 12 26 M 25478423 Makkah 4 2
+Add_Student Information_Systems 6 3.2 2015 5 28 17025 Hamdan_Odha_AlBishi Saudi 1994 7 21 M 14758264 Jeddah 5 3
+Assign_Teacher_Student 44254 17001
+Assign_Teacher_Student 50025 17002
+Assign_Teacher_Student 51478 17003
+Assign_Teacher_Student 49647 17004
+Assign_Teacher_Student 49647 17005
+Assign_Teacher_Student 53654 17006
+Assign_Teacher_Student 48741 17007
+Assign_Teacher_Student 44254 17008
+Assign_Teacher_Student 45149 17009
+Assign_Teacher_Student 49647 17010
+Assign_Teacher_Student 51478 17011
+Assign_Teacher_Student 53587 17012
+Assign_Teacher_Student 53654 17013
+Assign_Teacher_Student 49872 17014
+Assign_Teacher_Student 44254 17015
+Assign_Teacher_Student 44540 17016
+Assign_Teacher_Student 50025 17017
+Assign_Teacher_Student 51478 17018
+Assign_Teacher_Student 44540 17019
+Assign_Teacher_Student 50025 17020
+Assign_Teacher_Student 45149 17021
+Assign_Teacher_Student 45149 17022
+Assign_Teacher_Student 53587 17023
+Assign_Teacher_Student 53654 17024
+Assign_Teacher_Student 53587 17025
+Assign_ExamVenue_Student 1001 17001
+Assign_ExamVenue_Student 1002 17002
+Assign_ExamVenue_Student 1003 17003
+Assign_ExamVenue_Student 1004 17004
+Assign_ExamVenue_Student 1005 17005
+Assign_ExamVenue_Student 1006 17006
+Assign_ExamVenue_Student 1007 17007
+Assign_ExamVenue_Student 1008 17008
+Assign_ExamVenue_Student 1009 17009
+Assign_ExamVenue_Student 1010 17010
+Assign_ExamVenue_Student 1011 17011
+Assign_ExamVenue_Student 1012 17012
+Assign_ExamVenue_Student 1013 17013
+Assign_ExamVenue_Student 1014 17014
+Assign_ExamVenue_Student 1015 17015
+Assign_ExamVenue_Student 1016 17016
+Assign_ExamVenue_Student 1017 17017
+Assign_ExamVenue_Student 1018 17018
+Assign_ExamVenue_Student 1019 17019
+Assign_ExamVenue_Student 1020 17020
+Assign_ExamVenue_Student 1020 17021
+Assign_ExamVenue_Student 1020 17022
+Assign_ExamVenue_Student 1020 17023
+Assign_ExamVenue_Student 1020 17024
+Assign_ExamVenue_Student 1020 17025
+Assign_Invigilator_Student 55475 17001
+Assign_Invigilator_Student 58741 17002
+Assign_Invigilator_Student 35822 17003
+Assign_Invigilator_Student 35548 17004
+Assign_Invigilator_Student 22519 17005
+Assign_Invigilator_Student 55475 17006
+Assign_Invigilator_Student 58741 17007
+Assign_Invigilator_Student 35822 17008
+Assign_Invigilator_Student 35548 17009
+Assign_Invigilator_Student 22519 17010
+Assign_Invigilator_Student 55475 17011
+Assign_Invigilator_Student 58741 17012
+Assign_Invigilator_Student 35822 17013
+Assign_Invigilator_Student 35548 17014
+Assign_Invigilator_Student 22519 17015
+Assign_Invigilator_Student 55475 17016
+Assign_Invigilator_Student 58741 17017
+Assign_Invigilator_Student 35822 17018
+Assign_Invigilator_Student 35548 17019
+Assign_Invigilator_Student 22519 17020
+Assign_Invigilator_Student 55475 17021
+Assign_Invigilator_Student 58741 17022
+Assign_Invigilator_Student 35822 17023
+Assign_Invigilator_Student 35548 17024
+Assign_Invigilator_Student 22519 17025 
+Assign_CourseLab_Student 17001 501 503 506 509  
+Assign_CourseLab_Student 17002 502 506 509   
+Assign_CourseLab_Student 17003 503 504 505 507 508 509
+Assign_CourseLab_Student 17004 504 502
+Assign_CourseLab_Student 17005 505 503 507 508  
+Assign_CourseLab_Student 17006 506 501 510   
+Assign_CourseLab_Student 17007 507 504 506   
+Assign_CourseLab_Student 17008 508 503 504   
+Assign_CourseLab_Student 17009 509 506    
+Assign_CourseLab_Student 17010 510 501 504 502  
+Assign_CourseLab_Student 17011 501 503 506 507 510 
+Assign_CourseLab_Student 17012 502 506 508 509  
+Assign_CourseLab_Student 17013 503 505 506 509 510 
+Assign_CourseLab_Student 17014 504 506 509   
+Assign_CourseLab_Student 17015 505 507 508 509  
+Assign_CourseLab_Student 17016 506 501 507 509  
+Assign_CourseLab_Student 17017 507 502 506 508 510 507
+Assign_CourseLab_Student 17018 508 503 507 509  
+Assign_CourseLab_Student 17019 509 504    
+Assign_CourseLab_Student 17020 510 507    
+Assign_CourseLab_Student 17021 501 503 504 507 509 
+Assign_CourseLab_Student 17022 502 505 507 508  
+Assign_CourseLab_Student 17023 503 505 508 506 507 
+Assign_CourseLab_Student 17024 504 503    
+Assign_CourseLab_Student 17025 505 501 508   
+
+Assign_Course_Student 17001 201 391 403 351 202 353 
+Assign_Course_Student 17002 202 403 498    
+Assign_Course_Student 17003 203 498 353 403 204 202 
+Assign_Course_Student 17004 204 353     
+Assign_Course_Student 17005 301 201 202 353 351  
+Assign_Course_Student 17006 351 202 203 201   
+Assign_Course_Student 17007 391 203 204 202   
+Assign_Course_Student 17008 403 204 301    
+Assign_Course_Student 17009 498 301 351    
+Assign_Course_Student 17010 353 351 391 351 202  
+Assign_Course_Student 17011 201 391 403 391 203 498 
+Assign_Course_Student 17012 202 201 203 403 204 498 
+Assign_Course_Student 17013 203 498 204 351 301 201 391
+Assign_Course_Student 17014 204 353 301 353   
+Assign_Course_Student 17015 301 391 351 201 391  
+Assign_Course_Student 17016 351 403 391 202 403  
+Assign_Course_Student 17017 391 498 403 203 498 204 
+Assign_Course_Student 17018 403 353 498 204   
+Assign_Course_Student 17019 498 201     
+Assign_Course_Student 17020 353 202 201    
+Assign_Course_Student 17021 201 203 202 403 204 353 
+Assign_Course_Student 17022 202 204 203 498 301  
+Assign_Course_Student 17023 203 301 204 353 351 498 
+Assign_Course_Student 17024 204 351 301 201   
+Assign_Course_Student 17025 301 391 351 202 403  
+
+Print_Report
+Quit 

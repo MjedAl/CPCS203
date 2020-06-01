@@ -1,0 +1,144 @@
+
+########################################################################################################
+############################# Welcome to Entertainment Booking System ##################################
+########################################################################################################
+
+AddingMovie{Name:Bilal, Dates:02/03/2019 - 02/04/2019, City: Jeddah, Address: Red Sea Mall, Price: 50.0, Target Audience: Family, Tickets Available: 20, Rating:3.8, Language:English, Genre:Animation, Actor: Adewale Akinnuoye } was successfully completed 
+AddingMovie{Name:The Upside, Dates:06/03/2019 - 06/06/2019, City: Riyadh, Address: Al Qasr Mall, Price: 50.0, Target Audience: Family, Tickets Available: 40, Rating:4.5, Language:English, Genre:Comedy, Actor: Nicole Kidman } was successfully completed 
+AddingMovie{Name:Total Dhamal, Dates:06/03/2019 - 09/03/2019, City: Jeddah, Address: Red Sea Mall, Price: 50.0, Target Audience: Family, Tickets Available: 25, Rating:2.5, Language:Hindi, Genre:Action, Actor: Ajay Devgn } was successfully completed 
+AddingMovie{Name:Glass, Dates:02/02/2019 - 13/03/2019, City: Riyadh, Address: Riyadh Park, Price: 50.0, Target Audience: Male, Tickets Available: 55, Rating:3.4, Language:English, Genre:Sci-fi, Actor: Samuel Jackson } was successfully completed 
+AddingMovie{Name:The mule, Dates:07/03/2019 - 09/03/2019, City: Riyadh, Address: Al Qasr Mall, Price: 50.0, Target Audience: Family, Tickets Available: 15, Rating:3.3, Language:English, Genre:Crime, Actor: Bradley Cooper } was successfully completed 
+AddingMovie{Name:The Lego Movie 2, Dates:09/03/2019 - 02/04/2019, City: Jeddah, Address: Red Sea Mall, Price: 50.0, Target Audience: Family, Tickets Available: 20, Rating:4.0, Language:English, Genre:Animation, Actor: Chris Pratt } was successfully completed 
+AddingFestival{Name:Wild Desert, Dates:27/02/2019 - 10/03/2019, City: Khobar, Address: Khobar front sea, Price: 25.0, Target Audience: All, Tickets Available: 600, FoodVenues: [FoodTruck, CofeeShops], Activities: [zoo, clown]} was successfully completed 
+AddingFestival{Name:Happy Land, Dates:21/02/2019 - 08/03/2019, City: Riyadh, Address: Nakheel mall, Price: 15.0, Target Audience: Family , Tickets Available: 400, FoodVenues: [Burger, Pizza], Activities: [theater, show]} was successfully completed 
+AddingFestival{Name:Rayeg, Dates:08/03/2019 - 09/03/2019, City: Jeddah, Address: Athletic Lifestyle Venue, Price: 25.0, Target Audience: All , Tickets Available: 300, FoodVenues: [FoodTruck, CofeeShops], Activities: [zoo, clown]} was successfully completed 
+AddingFestival{Name:Jeddah Fair is coming, Dates:20/03/2019 - 22/03/2019, City: Jeddah, Address: Athletic Lifestyle Venue, Price: 50.0, Target Audience: All, Tickets Available: 400, FoodVenues: [Coffeeshops], Activities: [group_activities]} was successfully completed 
+AddingFestival{Name:Fashion show, Dates:20/03/2019 - 22/03/2019, City: Taif, Address: Arruddaf Park, Price: 50.0, Target Audience: Female, Tickets Available: 340, FoodVenues: [Burger, pizza, CoffeeShops], Activities: [Bridal_show]} was successfully completed 
+AddingFestival{Name:Black Diamond, Dates:03/03/2019 - 06/04/2019, City: Dammam, Address: Black Diamond, Price: 25.0, Target Audience: Female, Tickets Available: 340, FoodVenues: [CoffeeShops, HealthyFood], Activities: [Sporting_events]} was successfully completed 
+AddingConcert{Name:Big Musical Festival, Dates:23/09/2018 - 24/09/2018, City: Jeddah, Address: Jeddah Stadium, Price: 0.0, Target Audience: Male, Tickets Available: 0, Performers: 11 performers  } was successfully completed 
+AddingConcert{Name:Al Khamsa Legacy, Dates:31/01/2019 - 02/02/2019, City: Alula, Address: Old Alula, Price: 400.0, Target Audience: Family , Tickets Available: 0, Performers: Andrea Bocelli} was successfully completed 
+AddingConcert{Name:Another World, Dates:28/12/2018 - 29/12/2018, City: Alula, Address: Old Alula, Price: 500.0, Target Audience: Family , Tickets Available: 0, Performers: Majidah Alroumi} was successfully completed 
+AddingConcert{Name:Wonder Awakened, Dates:07/03/2019 - 09/03/2019, City: Alula, Address: Old Alula, Price: 500.0, Target Audience: Family , Tickets Available: 40, Performers: Yanni} was successfully completed 
+AddingCustomerCustomer Number :000001 Name: Ameerah Kareem, Email: Jeddah, BateOfBirth: 12/02/1978} was successfully completed 
+AddingCustomerCustomer Number :000002 Name: Ahmad Ali, Email: Jeddah, BateOfBirth: 28/01/1990} was successfully completed 
+AddingCustomerCustomer Number :000003 Name: Saleh Salama, Email: Jeddah, BateOfBirth: 02/02/2005} was successfully completed 
+AddingCustomerCustomer Number :000004 Name: Jamal Bader, Email: Riyadh, BateOfBirth: 05/05/1975} was successfully completed 
+AddingCustomerCustomer Number :000005 Name: Manal Bader, Email: Riyadh, BateOfBirth: 15/07/2010} was successfully completed 
+AddingCustomerCustomer Number :000006 Name: Anas Bader, Email: Riyadh, BateOfBirth: 07/07/2017} was successfully completed 
+The requested event The mule is available in the selected date
+Ticket is successfully added to the ShoppingCart: Cart Size -> 1
+The requested event Al Khamsa Legacy is available in the selected date
+Ticket is successfully added to the ShoppingCart: Cart Size -> 2
+The requested event Wild Desert is available in the selected date
+Ticket is successfully added to the ShoppingCart: Cart Size -> 3
+**Buying Ticket for Ahmad Ali was successfully completed
+
+------------------------- Invoice Details -------------------------
+Booking# 000002615
+Customer #: 000002
+-------------------------------------------------------------------
+Event               	Price   	Discount	Final_price	
+The mule            	50.00   	0.0%    	50.00   
+Al Khamsa Legacy    	400.00  	0.0%    	400.00  
+Wild Desert         	25.00   	0.0%    	25.00   
+-------------------------------------------------------------------
+Number of discount items: 0
+- Total Price: 475.00
+- Final Price: 475.00 
+- Saving Amount: 0.00 
+-------------------------------------------------------------------
+
+
+The requested event The Upside is available in the selected date
+Ticket is successfully added to the ShoppingCart: Cart Size -> 1
+The requested event Wonder Awakened is not available in the selected date
+Ticket not successfully added to the ShoppingCart: Cart Size -> 1
+The requested event Happy Land is available in the selected date
+Ticket is successfully added to the ShoppingCart: Cart Size -> 2
+**Buying Ticket for Saleh Salama was successfully completed
+
+------------------------- Invoice Details -------------------------
+Booking# 000003179
+Customer #: 000003
+-------------------------------------------------------------------
+Event               	Price   	Discount	Final_price	
+The Upside          	50.00   	0.0%    	50.00   
+Happy Land          	15.00   	50.0%   	7.50    
+-------------------------------------------------------------------
+Number of discount items: 1
+- Total Price: 65.00
+- Final Price: 57.50 
+- Saving Amount: 7.50 
+-------------------------------------------------------------------
+
+
+The requested event Glass is available in the selected date
+Ticket is successfully added to the ShoppingCart: Cart Size -> 1
+The requested event Happy Land is available in the selected date
+Ticket is successfully added to the ShoppingCart: Cart Size -> 2
+**Buying Ticket for Anas Bader was successfully completed
+
+------------------------- Invoice Details -------------------------
+Booking# 000006082
+Customer #: 000006
+-------------------------------------------------------------------
+Event               	Price   	Discount	Final_price	
+Glass               	50.00   	0.0%    	50.00   
+Happy Land          	15.00   	100.0%  	0.00    
+-------------------------------------------------------------------
+Number of discount items: 1
+- Total Price: 65.00
+- Final Price: 50.00 
+- Saving Amount: 15.00 
+-------------------------------------------------------------------
+
+
+The requested event Another World is not available in the selected date
+Ticket not successfully added to the ShoppingCart: Cart Size -> 0
+The customer Manal Rajab is not found
+**Buying Ticket for  was not successfully completed
+
+The requested event The Lego Movie 2 is not available in the selected date
+Ticket not successfully added to the ShoppingCart: Cart Size -> 0
+The requested event Happy Land is available in the selected date
+Ticket is successfully added to the ShoppingCart: Cart Size -> 1
+**Buying Ticket for Manal Bader was successfully completed
+
+------------------------- Invoice Details -------------------------
+Booking# 000005464
+Customer #: 000005
+-------------------------------------------------------------------
+Event               	Price   	Discount	Final_price	
+Happy Land          	15.00   	50.0%   	7.50    
+-------------------------------------------------------------------
+Number of discount items: 1
+- Total Price: 15.00
+- Final Price: 7.50 
+- Saving Amount: 7.50 
+-------------------------------------------------------------------
+
+
+----------------------------------------- Movie Sorted By Rating ------------------------------------------
+Movie name          	Dates         	Actor             	Ratings           	Available Tickets 
+---------------------------------------------------------------------------------------------------------
+The Upside          	06/03/19-06/06/19	Nicole Kidman     	4.5               	39                
+The Lego Movie 2    	09/03/19-02/04/19	Chris Pratt       	4.0               	20                
+Bilal               	02/03/19-02/04/19	Adewale Akinnuoye 	3.8               	20                
+Glass               	02/02/19-13/03/19	Samuel Jackson    	3.4               	54                
+The mule            	07/03/19-09/03/19	Bradley Cooper    	3.3               	14                
+Total Dhamal        	06/03/19-09/03/19	Ajay Devgn        	2.5               	25                
+---------------------------------------------------------------------------------------------------------
+
+
+---------------------------------------- Festival Sorted By Starting Date -----------------------------------------------
+Festival Name       	Dates               	FoodVenues               	Activities          	Available Tickets   
+------------------------------------------------------------------------------------------------------------------------
+Happy Land          	21/02/19-08/03/19	[Burger, Pizza]          	[theater, show]     	397                 
+Wild Desert         	27/02/19-10/03/19	[FoodTruck, CofeeShops]  	[zoo, clown]        	599                 
+Black Diamond       	03/03/19-06/04/19	[CoffeeShops, HealthyFood]	[Sporting_events]   	340                 
+Rayeg               	08/03/19-09/03/19	[FoodTruck, CofeeShops]  	[zoo, clown]        	300                 
+Jeddah Fair is coming	20/03/19-22/03/19	[Coffeeshops]            	[group_activities]  	400                 
+Fashion show        	20/03/19-22/03/19	[Burger, pizza, CoffeeShops]	[Bridal_show]       	340                 
+------------------------------------------------------------------------------------------------------------------------
+
+
